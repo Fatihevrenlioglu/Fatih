@@ -1,3 +1,4 @@
+{
 # import logging
 import json
 import os
@@ -145,3 +146,5 @@ if __name__ == "__main__":
 
     # Flask sunucusunu başlat
     app.run(host='0.0.0.0', port=5000, debug=True)
+}
+
