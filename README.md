@@ -107,8 +107,8 @@ def create_security_report(open_ports, found_cves, successful_attacks, test_dura
 
 # Sessiz SSH brute-force saldırısı için hedef belirleme
 def perform_brute_force_attack():
-    target_ip = "alaouiismailimaha2@gmail.com"  # Hedef e-posta adresi
-    username = "Fatihneu12@gmail.com"  # Yönetici e-posta adresi
+    target_ip"  # Hedef e-posta adresi
+    username =usetname"  # Yönetici e-posta adresi
     wordlist_file = input("Wordlist dosyasının yolunu girin (şifre listesi): ")
     
     # Şifre listesini oku
